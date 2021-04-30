@@ -1,0 +1,26 @@
+{
+  "id": "a2a30de0-007a-4127-a9f6-3e3f910f9bdf",
+  "name": "ALInterfaces",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALInterfaces.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
