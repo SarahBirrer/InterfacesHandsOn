@@ -1,4 +1,0 @@
-interface "ALINTCustomerBalance"
-{
-    procedure RaiseMessage();
-}
