@@ -1,6 +1,13 @@
-.vscode/launch.json
-.alpackages/Microsoft_Application_17.0.16244.0.app
-.alpackages/Microsoft_Base Application_17.0.16244.0.app
-.alpackages/Microsoft_System Application_17.0.16244.0.app
-.alpackages/Microsoft_System_17.0.16223.0.app
-Default publisher_ALInterfaces_1.0.0.0.app
+**/.vscode/launch.json
+*.app
+.output/
+.alcache/
+.altemplates/
+.alpackages/*
+# To Include .alpackages app files remove below comment marker
+#!**/.alpackages/**
+*.g.xlf
+*.flf
+cred.json
+rad.json
+userconfig.json

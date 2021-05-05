@@ -1,0 +1,19 @@
+{
+    "name": "InterfaceHandsOn",
+    "startupObjectId": 22,
+    "startupObjectType": "Page",
+    "breakOnError": true,
+    "navContainerHelperPath": "",
+    "enableSymbolLoading": false,
+    "apps": [
+        "app"
+    ],
+    "versions": [
+        {
+            "version": "current",
+            "artifact": "bcartifacts/sandbox/17.0/ch",
+            "alwaysPull": true
+        }
+    ],
+    "profiles": []
+}

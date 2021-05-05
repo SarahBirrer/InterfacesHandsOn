@@ -1,0 +1,16 @@
+﻿{
+    "folders":  [
+                    {
+                        "path":  "config",
+                        "name":  "Configuration"
+                    },
+                    {
+                        "path":  "app"
+                    },
+                ],
+    "settings":  {
+                     "al.CompilationOptions":  {
+                                                   "generateReportLayout":  false
+                                               }
+                 }
+}

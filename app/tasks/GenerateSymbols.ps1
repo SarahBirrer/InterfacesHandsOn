@@ -1,0 +1,1 @@
+Generate-NavSymbols -Server "WW8-MAN02\NAVISION" -Database "LogicoERP_Develop" -NavIde "C:\ProgramData\NavContainerHelper\Extensions\LogicoERP-Dev\Program Files\110\RoleTailored Client\finsql.exe"
