@@ -1,0 +1,33 @@
+{
+  "id": "6cdc7913-c4c1-4524-958e-b910ffb27edc",
+  "name": "ALInterfaces2",
+  "publisher": "Logico Solutions AG",
+  "version": "1.0.0.0",
+  "brief": "ALInterfaces2",
+  "description": "ALInterfaces2",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Logo.png",
+  "dependencies": [
+    {
+      "id": "a2a30de0-007a-4127-a9f6-3e3f910f9bdf",
+      "name": "ALInterfaces",
+      "publisher": "Logico Solutions AG",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50101,
+      "to": 50200
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALInterfaces2.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}

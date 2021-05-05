@@ -1,0 +1,38 @@
+{
+    "name": "Logico Common Ruleset",
+    "description": "Commonly used adjustments to the default Rulesets",
+    "rules": [
+        {
+            "id": "AA0005",
+            "action": "None"
+        },
+        {   "id": "AA0139",
+            "action": "Hidden"
+        },
+        {
+            "id": "AL0254",
+            "action": "Hidden",
+            "justification": "Can't influence keys on Base-Tables"
+        },
+        {
+            "id": "AW0006",
+            "action": "Hidden",
+            "justification": "Some Objects Should not show up in the 'TELL ME' search"
+        },
+        {
+            "id": "AA0218",
+            "action": "Hidden",
+            "justification": "ToolTip property must be filled"
+        },
+        {
+            "id": "AW0011",
+            "action": "Hidden",
+            "justification": "Promoted Actions set to PromotedOnly = True" 
+        },
+        {
+            "id": "AA0215",
+            "action": "Hidden",
+            "justification": "Filename warning refacture this" 
+        }
+    ]
+}

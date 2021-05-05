@@ -1,13 +1,16 @@
-﻿{
+{
     "folders":  [
-                    {
-                        "path":  "config",
-                        "name":  "Configuration"
-                    },
-                    {
-                        "path":  "app"
-                    },
-                ],
+        {
+            "path": "config",
+            "name": "Configuration"
+        },
+        {
+            "path": "app"
+        },
+        {
+            "path": "app2"
+        }
+    ],
     "settings":  {
                      "al.CompilationOptions":  {
                                                    "generateReportLayout":  false
