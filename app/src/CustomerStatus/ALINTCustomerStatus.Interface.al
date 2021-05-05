@@ -1,0 +1,4 @@
+interface "ALINTCustomerStatus"
+{
+    procedure RaiseMessage();
+}
